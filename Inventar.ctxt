@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Inventar
+comment1.params=bezeichnung
+comment1.target=void\ bef\u00FClleInventar(java.lang.String)
+comment2.params=bezeichnung
+comment2.target=void\ entferneAusInventar(java.lang.String)
+comment3.params=bezeichnung
+comment3.target=boolean\ hatGegenstand(java.lang.String)
+comment4.params=
+comment4.target=void\ inhaltAusgebenAlsString()
+comment5.params=
+comment5.target=java.lang.String\ inhaltAusgeben()
+numComments=6

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Spieler
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Spieler.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=name\ neuesInventar
+comment1.target=Spieler(java.lang.String,\ Inventar)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Spieler\r\n
+comment2.params=bezeichnung
+comment2.target=void\ setzeInventar(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ gibNamen()
+comment4.params=
+comment4.target=void\ gibInventarInhalt()
+comment5.params=bezeichnung
+comment5.target=void\ nehmen(Gegenstand)
+comment6.params=bezeichnung
+comment6.target=void\ abgeben(Gegenstand)
+comment7.params=inventar
+comment7.target=Inventar\ getInventar(Inventar)
+numComments=8
